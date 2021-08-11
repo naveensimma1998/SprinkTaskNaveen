@@ -1,0 +1,22 @@
+.loader{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  width: 80vw;
+}
+.btn-msg{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  height: 100vh;
+  width: 100vw;
+  
+  
+  
+}
+.menuList{
+  display: block;
+  
+}
