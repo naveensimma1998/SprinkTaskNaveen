@@ -45,7 +45,7 @@ import './Items.css'
           return(
             <div className="list">
           
-              <span className="span2"><h4 style ={ {fontFamily : "Chalkduster, fantasy" , fontSize : "28px" , color : "goldenrod"
+              <span className="categoryItems"><h4 style ={ {fontFamily : "Chalkduster, fantasy" , fontSize : "28px" , color : "goldenrod"
             , fontWeight : "90"}}>{categoryItem.name + ":" }  </h4>
              
             <ul style={{backgroundColor :"lightslategray" , color : "black"}}>
